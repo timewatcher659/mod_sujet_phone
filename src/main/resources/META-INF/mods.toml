@@ -1,1 +1,17 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="Academic Free License v3.0"
+issueTrackerURL="https://change.me.to.your.issue.tracker.example.com/"
 
+[[mods]]
+  modId="mod_sujet_phone"
+  version="${file.jarVersion}"
+  displayName="Мод Сюжетного Меча"
+  displayURL="https://change.me.to.your.website.example.com/"
+  logoFile="examplemod.png"
+  credits="Me!"
+  authors="timewatcher659"
+  description='''
+  Мод для сюжета с мечом, созданный на телефоне.
+  '''
+  
